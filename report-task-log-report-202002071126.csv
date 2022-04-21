@@ -1,0 +1,607 @@
+WS ID,Account,Product Line,Activity Type,Unplanned,Status WS,Status Tag,Resolution Date,Task,Task Category,Duration,Task Status,Transition,Is Rework,Assigned to,Transition Date,Ignore Billing,Actual
+15570,ZAZ Telecom,WL,1800 MOCN,False,Ready,-,43818,Script, - ,01:10:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-19 16:20,False,False
+15570,ZAZ Telecom,WL,1800 MOCN,False,Ready,-,43818,Integration, - ,00:01:05,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-19 23:55,False,False
+252432,WOW Telecom,WL,Antenna Swap,True,Closed,-,43812,Integration, - ,02:09:23,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 17:05,False,False
+252432,WOW Telecom,WL,Antenna Swap,True,Closed,-,43812,Report, - ,00:00:03,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 21:15,False,False
+255204,WOW Telecom,WL,Antenna Swap,True,Closed,-,43819,Integration, - ,01:42:56,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-20 10:32,False,False
+255204,WOW Telecom,WL,Antenna Swap,True,Closed,-,43819,Report, - ,00:00:04,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-20 12:15,False,False
+214966,ZAZ Telecom,WL,BAND P,False,Ready,-,43820,Script, - ,00:00:04,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 00:50,False,False
+248707,ZAZ Telecom,WL,BAND P,False,Ready,-,43820,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 11:00,False,False
+248707,ZAZ Telecom,WL,BAND P,False,Ready,-,43820,Integration, - ,03:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 15:30,False,False
+248708,ZAZ Telecom,WL,BAND P,False,Ready,-,43822,Script, - ,03:13:26,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 14:56,False,False
+248708,ZAZ Telecom,WL,BAND P,False,Ready,-,43822,Integration, - ,05:11:55,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 18:10,False,False
+248715,ZAZ Telecom,WL,BAND P,False,Ready,-,43820,Integration, - ,01:33:11,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-21 19:30,False,False
+248715,ZAZ Telecom,WL,BAND P,False,Ready,-,43820,Script, - ,04:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 15:30,False,False
+248715,ZAZ Telecom,WL,BAND P,False,Ready,-,43820,Integration, - ,-1:58:24,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 21:01,False,False
+250011,ZAZ Telecom,WL,Carrier Expansion,True,Ready,-,43808,RF Plan, - ,00:42:29,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-09 16:26,False,False
+250011,ZAZ Telecom,WL,Carrier Expansion,True,Ready,-,43808,NL Script, - ,00:42:17,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-09 16:27,False,False
+214866,ZAZ Telecom,WL,NEW 3G,False,Ready,-,43802,Integration, - ,05:02:17,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-02 17:24,False,False
+238255,ZAZ Telecom,WL,NEW 3G,False,Ready,-,43829,Integration, - ,04:54:13,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-02 17:24,False,False
+248658,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43814,Script, - ,04:50:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-15 12:40,False,False
+248658,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43815,Integration, - ,06:15:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-16 13:15,False,False
+248666,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43827,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 09:30,False,False
+248666,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43827,Integration, - ,03:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 11:40,False,False
+248673,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43818,Antenna SWAP, - ,05:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-16 13:15,False,False
+248674,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43822,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 13:30,False,False
+248674,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43822,Integration, - ,03:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 16:00,False,False
+248675,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43820,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 11:00,False,False
+248675,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43820,Integration, - ,03:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 15:30,False,False
+256829,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43822,Integration, - ,05:20:00,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-23 18:10,False,False
+256829,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43822,Script, - ,03:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 15:00,False,False
+256829,ZAZ Telecom,WL,NEW 4G,False,Ready,-,43825,Integration, - ,00:00:26,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-26 22:57,False,False
+159873,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43804,Integration, - ,05:19:53,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-02 17:23,False,False
+178003,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43805,Integration, - ,04:00:03,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-06 15:44,False,False
+179545,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43826,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 14:00,False,False
+179545,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43826,Integration, - ,01:50:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 16:10,False,False
+194186,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43805,Script, - ,01:45:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-06 19:36,False,False
+194186,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43808,Integration, - ,00:41:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-06 21:23,False,False
+197892,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43803,Script, - ,01:35:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-04 17:47,False,False
+197892,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43803,Integration, - ,01:20:04,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-04 20:24,False,False
+197892,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43802,Antenna SWAP, - ,04:49:25,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-03 14:47,False,False
+225446,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43815,Integration, - ,02:00:00,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-16 20:00,False,False
+225446,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43815,Script, - ,01:10:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-16 18:50,False,False
+225446,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43815,Integration, - ,-1:56:26,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-16 22:03,False,False
+225446,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43812,Antenna SWAP, - ,03:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-13 14:00,False,False
+227671,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43817,Script, - ,00:00:25,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-18 22:12,False,False
+227671,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43817,Script, - ,00:00:15,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-18 22:13,False,False
+227671,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43817,Script, - ,00:00:10,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-18 22:12,False,False
+227671,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43818,Integration, - ,00:00:51,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-18 22:14,False,False
+238340,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43809,Script, - ,02:10:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 17:07,False,False
+238340,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43810,Integration, - ,04:16:24,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 19:18,False,False
+238340,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43809,Antenna SWAP, - ,02:22:40,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 14:45,False,False
+238342,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43805,Antenna SWAP, - ,02:20:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-06 19:47,False,False
+240420,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43814,Script, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-15 09:30,False,False
+240420,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43814,Integration, - ,-26:08:21,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-16 13:21,False,False
+246353,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43802,CDD, - ,00:00:33,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-03 14:26,False,False
+246353,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43803,Script, - ,06:54:11,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-03 14:28,False,False
+246353,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43804,Integration, - ,02:12:53,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-04 19:29,False,False
+247451,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43821,Script, - ,01:10:00,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-22 15:00,False,False
+247451,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43821,Integration, - ,02:30:00,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-22 16:30,False,False
+247451,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43821,Integration, - ,00:01:13,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-22 20:00,False,False
+248481,ZAZ Telecom,WL,NEW 4G 700,False,Ready,-,43822,Antenna SWAP, - ,04:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 13:30,False,False
+258538,WOW Telecom,WL,New Site 5G,True,Ready,-,43830,WL Script, - ,00:00:08,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-31 14:09,False,False
+258538,WOW Telecom,WL,New Site 5G,True,Ready,-,43830,Integration, - ,00:00:22,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-31 14:09,False,False
+258539,WOW Telecom,WL,New Site 5G,True,Ready,-,43830,WL Script, - ,00:00:05,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-31 14:10,False,False
+258539,WOW Telecom,WL,New Site 5G,True,Ready,-,43830,Integration, - ,00:00:19,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-31 14:10,False,False
+196644,WOW Telecom,WL,New Site GUL,False,Ready,-,43803,RF Plan, - ,01:23:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-04 13:00,False,False
+196644,WOW Telecom,WL,New Site GUL,False,Ready,-,43815,RF/NL Baseline, - ,01:22:22,In Progress,From Initial to In Progress,False,João Maria José,2019-12-16 13:00,False,False
+252790,WOW Telecom,WL,New Site GUL,False,Ready,-,43823,RF/NL Baseline, - ,00:51:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-24 11:09,False,False
+252791,WOW Telecom,WL,New Site GUL,False,Ready,Ready for Alarm Test,43827,NL Script, - ,00:52:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-28 10:00,False,False
+252791,WOW Telecom,WL,New Site GUL,False,Ready,Ready for Alarm Test,43829,RF/NL Baseline, - ,00:30:23,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 11:02,False,False
+252792,WOW Telecom,WL,New Site GUL,False,Ready,Ready for Alarm Test,43822,RF/NL Baseline, - ,01:05:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-23 20:55,False,False
+252793,WOW Telecom,WL,New Site GUL,False,Ready,Ready for Alarm Test,43829,RF/NL Baseline, - ,00:29:38,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 11:02,False,False
+196644,WOW Telecom,WL,New Site GUL,False,Ready,-,43813,Tridigit, - ,04:03:39,In Progress,From Initial to In Progress,True,Pedro Mateus,2019-12-14 12:50,True,False
+196644,WOW Telecom,WL,New Site GUL,False,Ready,-,43813,Tridigit, - ,52:02:58,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-12 12:50,False,False
+222694,WOW Telecom,WL,New Site GUL,False,Ready,-,43809,Alarm Test, - ,01:02:47,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-10 14:14,False,False
+252792,WOW Telecom,WL,New Site GUL,False,Ready,Ready for Alarm Test,43822,Integration, - ,02:23:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-23 17:00,False,False
+253144,WOW Telecom,WL,New Site GUL,False,Ready,-,43829,Integration, - ,01:25:22,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-30 11:17,False,False
+157641,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43818,Integration, - ,00:00:26,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-19 23:53,False,False
+157782,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43818,Script, - ,01:45:46,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-19 19:36,False,False
+157782,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43818,Integration, - ,02:17:36,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-19 21:22,False,False
+157782,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43818,Antenna SWAP, - ,03:15:31,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-19 16:20,False,False
+157785,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43808,CDD, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 10:00,False,False
+157785,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43808,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 14:00,False,False
+157785,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43808,Integration, - ,06:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 17:00,False,False
+178002,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43805,Integration, - ,04:00:05,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-06 15:45,False,False
+214978,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43804,Script, - ,06:10:59,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-03 14:51,False,False
+238297,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43820,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 11:00,False,False
+238297,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43820,Integration, - ,03:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-21 15:00,False,False
+240510,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43804,Integration, - ,05:20:22,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-02 17:23,False,False
+247450,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43821,Script, - ,01:10:00,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-22 15:00,False,False
+247450,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43821,Integration, - ,02:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-22 16:30,False,False
+248490,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43814,Script, - ,-17:27:13,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-16 13:32,False,False
+248490,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43814,Script, - ,02:00:00,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-15 19:00,False,False
+248490,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43815,Script, - ,00:00:34,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-16 13:31,False,False
+248490,ZAZ Telecom,WL,Refarming GL 1800Mhz,False,Ready,-,43814,RRU Swap, - ,03:15:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-15 15:45,False,False
+214955,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43802,Integration, - ,05:02:31,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-02 17:23,False,False
+238329,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,Script, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 15:30,False,False
+238329,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,Integration, - ,06:38:42,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 17:00,False,False
+238332,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43826,Script, - ,01:10:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 13:40,False,False
+238332,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43826,Integration, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 15:00,False,False
+238335,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43816,RRU Swap, - ,01:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-16 17:00,False,False
+246924,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43808,CDD, - ,00:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 12:00,False,False
+246924,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43808,Script, - ,01:10:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 14:50,False,False
+246924,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43808,Integration, - ,03:20:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 16:10,False,False
+248584,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43816,CDD, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-17 13:00,False,False
+248584,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43816,Script, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-17 18:00,False,False
+248584,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43818,Integration, - ,00:00:25,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-17 20:37,False,False
+248584,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43816,RRU Swap, - ,02:50:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-17 15:00,False,False
+248586,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43826,CDD, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 14:00,False,False
+248586,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43826,Script, - ,01:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 18:00,False,False
+248586,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43826,Integration, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 19:40,False,False
+248588,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43819,CDD, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-20 17:00,False,False
+248588,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43819,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-20 18:30,False,False
+248588,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43822,Integration, - ,03:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-20 20:40,False,False
+248588,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43819,RRU Swap, - ,04:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-20 13:00,False,False
+248593,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43825,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-26 13:00,False,False
+248593,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43825,Integration, - ,07:33:15,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-26 15:30,False,False
+248599,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43818,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-19 17:45,False,False
+248599,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43818,Integration, - ,04:01:02,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-19 19:50,False,False
+248604,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43827,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 09:30,False,False
+248604,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43827,Integration, - ,03:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 11:40,False,False
+248612,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43817,Script, - ,-6:25:08,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-18 22:04,False,False
+248612,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43817,Script, - ,02:00:00,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-18 14:30,False,False
+248612,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43817,Integration, - ,00:00:22,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-18 22:07,False,False
+248612,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43817,Integration, - ,04:00:00,In Progress,From Initial to In Progress,True,Joaquim Xavier,2019-12-18 16:40,False,False
+248612,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43817,Script, - ,-6:27:21,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-18 22:02,False,False
+248612,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43817,Integration, - ,00:00:32,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-18 22:06,False,False
+248613,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43822,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 13:30,False,False
+248613,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43822,Integration, - ,03:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 16:00,False,False
+248616,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43827,Integration, - ,04:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 11:40,False,False
+248616,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43827,RRU Swap, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 09:30,False,False
+248617,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43814,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-15 10:05,False,False
+248617,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43814,Integration, - ,04:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-15 16:00,False,False
+248617,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43814,RRU Swap, - ,04:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-15 10:30,False,False
+248618,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43813,RRU Swap, - ,02:20:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-13 14:40,False,False
+248619,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,CDD, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 13:30,False,False
+248619,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,Script, - ,00:25:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 18:35,False,False
+248619,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,Integration, - ,04:02:39,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 19:35,False,False
+248619,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,RRU Swap, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 16:30,False,False
+248621,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43819,Script, - ,01:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-20 16:30,False,False
+248621,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43819,Integration, - ,05:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-20 18:10,False,False
+248621,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43819,RRU Swap, - ,03:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-20 13:00,False,False
+248625,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43812,Script, - ,00:40:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-13 17:10,False,False
+248625,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43812,Integration, - ,02:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-13 18:00,False,False
+248625,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43812,RRU Swap, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-13 15:00,False,False
+248626,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43812,Script, - ,00:50:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-13 18:35,False,False
+248626,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43812,Integration, - ,01:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-13 19:30,False,False
+248626,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43812,RRU Swap, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-13 16:30,False,False
+248630,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43811,CDD, - ,01:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-12 13:10,False,False
+248630,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43811,Script, - ,01:50:54,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-12 19:10,False,False
+248630,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43811,Integration, - ,01:45:40,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-12 21:01,False,False
+248630,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43811,RRU Swap, - ,05:18:04,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-12 13:50,False,False
+248634,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,CDD, - ,00:20:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 13:00,False,False
+248634,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,Script, - ,02:25:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 15:05,False,False
+248634,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,Integration, - ,05:35:32,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 18:00,False,False
+248634,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43809,RRU Swap, - ,01:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 13:30,False,False
+248635,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43811,CDD, - ,01:55:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-12 13:10,False,False
+248635,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43811,Script, - ,01:51:30,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-12 19:09,False,False
+248635,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43811,Integration, - ,01:46:31,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-12 21:01,False,False
+248635,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,Ready,-,43811,RRU Swap, - ,01:53:26,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-12 17:15,False,False
+252155,ZAZ Telecom,WL,Refarming UL 2100 Mhz,False,On going,-,43829,Integration, - ,05:07:52,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-30 17:00,False,False
+214953,ZAZ Telecom,WL,Refarming UL 850 Mhz,False,Ready,-,43809,Script, - ,02:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 22:30,False,False
+214953,ZAZ Telecom,WL,Refarming UL 850 Mhz,False,Ready,-,43815,Integration, - ,01:20:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-10 01:10,False,False
+214953,ZAZ Telecom,WL,Refarming UL 850 Mhz,False,Ready,-,43808,RRU Swap, - ,04:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 18:00,False,False
+238349,ZAZ Telecom,WL,Refarming UL 850 Mhz,False,Ready,-,43817,Script, - ,00:00:16,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-18 22:17,False,False
+238349,ZAZ Telecom,WL,Refarming UL 850 Mhz,False,Ready,-,43819,Integration, - ,00:00:51,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-18 22:17,False,False
+239488,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239489,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239490,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239491,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239492,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239493,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239494,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239495,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239496,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239497,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+239498,ZAZ Telecom,WL,ReHoming,False,Ready,-,43801,D+7 Generation, - ,01:13:56,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 10:05,False,False
+179525,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43825,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-26 13:00,False,False
+179525,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43825,Integration, - ,07:37:52,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-26 15:30,False,False
+193336,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43822,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 18:00,False,False
+193336,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43822,Integration, - ,00:41:22,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-23 23:00,False,False
+193338,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43808,Script, - ,03:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 13:00,False,False
+193338,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43808,Integration, - ,06:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-09 17:00,False,False
+220575,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43829,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-30 16:00,False,False
+220575,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43829,Integration, - ,04:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-30 18:05,False,False
+238279,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43827,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 09:30,False,False
+238279,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43827,Integration, - ,04:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 11:40,False,False
+258026,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43826,Script, - ,03:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 14:00,False,False
+258026,ZAZ Telecom,WL,SIX SECTORS L1800,False,Ready,-,43826,Integration, - ,02:50:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-27 17:10,False,False
+252137,ZAZ Telecom,WL,SIX SECTORS L2100,False,Ready,-,43827,Script, - ,02:00:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 09:30,False,False
+252137,ZAZ Telecom,WL,SIX SECTORS L2100,False,Ready,-,43827,Integration, - ,04:30:00,In Progress,From Initial to In Progress,False,Joaquim Xavier,2019-12-28 11:40,False,False
+25528,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,Unet Database Control, - ,01:38:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 18:47,False,False
+25528,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,RF Plan, - ,00:51:27,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 20:28,False,False
+25528,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+193465,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF/NL Baseline, - ,01:50:52,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+193500,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43802,D+7 Troubleshooting, - ,00:30:42,In Progress,From Initial to In Progress,False,João Maria José,2019-12-03 16:30,False,False
+208013,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,Unet Database Control, - ,01:38:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 18:47,False,False
+208013,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+208013,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43826,D+1 Generation, - ,03:08:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-27 15:18,False,False
+208017,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43801,D+7 Generation, - ,05:31:14,In Progress,From Initial to In Progress,False,João Maria José,2019-12-02 15:19,False,False
+208021,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43809,RF/NL Baseline, - ,00:09:28,In Progress,From Initial to In Progress,False,João Maria José,2019-12-10 23:08,False,False
+215989,WOW Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Waiting for PTN Integration",43804,RF/NL Baseline, - ,00:36:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-05 14:24,False,False
+215992,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF/NL Baseline, - ,01:51:52,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+215992,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43815,D+1 Generation, - ,07:00:31,In Progress,From Initial to In Progress,False,João Maria José,2019-12-16 15:54,False,False
+216011,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43805,RF/NL Baseline, - ,01:34:30,In Progress,From Initial to In Progress,False,João Maria José,2019-12-06 14:17,False,False
+216051,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,RF/NL Baseline, - ,01:33:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 13:00,False,False
+216051,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,D+1 Generation, - ,01:24:54,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:00,False,False
+216068,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43810,D+7 Generation, - ,01:42:28,In Progress,From Initial to In Progress,True,João Maria José,2019-12-11 17:00,False,False
+216072,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43802,D+7 Generation, - ,02:11:15,In Progress,From Initial to In Progress,True,João Maria José,2019-12-03 17:10,False,False
+216075,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF/NL Baseline, - ,01:51:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+216075,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43825,D+7 Generation, - ,02:22:47,In Progress,From Initial to In Progress,False,João Maria José,2019-12-26 15:00,False,False
+226475,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43829,RF/NL Baseline, - ,00:29:04,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 11:03,False,False
+226476,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,NL Script, - ,01:00:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-05 14:24,False,False
+226476,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,RF/NL Baseline, - ,01:24:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-05 13:00,False,False
+226477,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43819,RF/NL Baseline, - ,00:56:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-20 11:04,False,False
+226478,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43809,RF/NL Baseline, - ,01:27:26,In Progress,From Initial to In Progress,False,João Maria José,2019-12-10 14:00,False,False
+226479,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+226479,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43829,D+1 Generation, - ,02:01:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 15:44,False,False
+226480,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF/NL Baseline, - ,01:51:08,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+226481,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43818,NL Script, - ,01:27:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 10:00,False,False
+226481,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+226482,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+226483,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,NL Script, - ,01:27:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 10:00,False,False
+226483,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+226484,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43818,NL Script, - ,01:27:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 10:00,False,False
+226484,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43825,RF/NL Baseline, - ,00:52:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-26 11:08,False,False
+226484,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43829,D+1 Generation, - ,02:01:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 15:44,False,False
+226485,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43816,NL Script, - ,00:35:47,In Progress,From Initial to In Progress,False,João Maria José,2019-12-17 21:22,False,False
+226485,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+226486,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,NL Script, - ,01:27:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 10:00,False,False
+226486,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+226487,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43818,RF/NL Baseline, - ,00:57:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 11:03,False,False
+226489,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43823,NL Script, - ,00:59:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-24 21:00,False,False
+226489,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43823,RF/NL Baseline, - ,00:40:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-24 21:20,False,False
+226490,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43819,RF/NL Baseline, - ,00:53:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-20 11:07,False,False
+226493,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43819,NL Script, - ,00:47:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-20 11:13,False,False
+226493,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43829,RF/NL Baseline, - ,00:26:55,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 11:06,False,False
+227077,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43812,RF/NL Baseline, - ,01:51:41,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+227077,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43825,D+7 Generation, - ,02:22:47,In Progress,From Initial to In Progress,False,João Maria José,2019-12-26 15:00,False,False
+227081,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43801,D+7 Generation, - ,05:31:14,In Progress,From Initial to In Progress,False,João Maria José,2019-12-02 15:19,False,False
+227082,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Double Check,43827,RF/NL Baseline, - ,00:40:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-28 10:00,False,False
+227086,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,NL Script, - ,01:05:50,In Progress,From Initial to In Progress,False,João Maria José,2019-12-05 16:00,False,False
+227086,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43805,RF/NL Baseline, - ,01:34:30,In Progress,From Initial to In Progress,False,João Maria José,2019-12-06 14:17,False,False
+227088,WOW Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Waiting for PTN Integration",43803,D+7 Generation, - ,04:57:38,In Progress,From Initial to In Progress,True,João Maria José,2019-12-04 13:35,False,False
+227092,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43815,RF/NL Baseline, - ,01:18:54,In Progress,From Initial to In Progress,False,João Maria José,2019-12-16 13:00,False,False
+227093,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43815,RF/NL Baseline, - ,01:18:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-16 13:00,False,False
+227094,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF/NL Baseline, - ,01:52:09,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+227095,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+227096,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43819,RF/NL Baseline, - ,00:50:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-20 11:10,False,False
+227097,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43801,D+7 Generation, - ,05:31:14,In Progress,From Initial to In Progress,False,João Maria José,2019-12-02 15:19,False,False
+227099,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,NL Script, - ,01:04:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-05 16:00,False,False
+227099,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43805,RF/NL Baseline, - ,01:34:30,In Progress,From Initial to In Progress,False,João Maria José,2019-12-06 14:17,False,False
+227100,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+227101,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43825,RF/NL Baseline, - ,00:53:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-26 11:07,False,False
+227103,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43801,D+7 Generation, - ,05:31:14,In Progress,From Initial to In Progress,False,João Maria José,2019-12-02 15:19,False,False
+227104,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF/NL Baseline, - ,01:52:18,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+227110,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43809,NL Script, - ,02:28:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-10 13:00,False,False
+227115,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43801,D+7 Generation, - ,05:31:14,In Progress,From Initial to In Progress,False,João Maria José,2019-12-02 15:19,False,False
+227119,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43826,D+1 Generation, - ,03:08:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-27 15:18,False,False
+227129,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43830,RF/NL Baseline, - ,01:22:25,In Progress,From Initial to In Progress,False,João Maria José,2019-12-31 09:00,False,False
+227131,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Unet Database Control, - ,01:13:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 12:46,False,False
+227131,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF Plan, - ,01:27:20,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 14:32,False,False
+227131,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,NL Script, - ,00:51:17,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 15:59,False,False
+227131,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43814,RF/NL Baseline, - ,00:00:18,In Progress,From Initial to In Progress,False,João Maria José,2019-12-15 13:01,False,False
+227131,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43815,D+1 Generation, - ,07:00:31,In Progress,From Initial to In Progress,False,João Maria José,2019-12-16 15:54,False,False
+227133,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43805,NL Script, - ,00:35:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-06 15:25,False,False
+227133,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43805,RF/NL Baseline, - ,00:17:44,In Progress,From Initial to In Progress,False,João Maria José,2019-12-06 20:26,False,False
+239901,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43809,NL Script, - ,01:30:40,In Progress,From Initial to In Progress,False,João Maria José,2019-12-10 14:00,False,False
+239907,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43809,RF/NL Baseline, - ,00:09:14,In Progress,From Initial to In Progress,False,João Maria José,2019-12-10 23:08,False,False
+247998,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43825,RF/NL Baseline, - ,00:54:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-26 11:06,False,False
+247998,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43829,D+1 Generation, - ,02:01:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 15:44,False,False
+247999,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43808,RF/NL Baseline, - ,00:28:40,In Progress,From Initial to In Progress,False,João Maria José,2019-12-09 18:23,False,False
+248001,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Unet Database Control, - ,01:13:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 12:46,False,False
+248001,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF Plan, - ,01:27:20,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 14:32,False,False
+248001,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,NL Script, - ,00:51:17,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 15:59,False,False
+248001,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43814,RF/NL Baseline, - ,00:00:18,In Progress,From Initial to In Progress,False,João Maria José,2019-12-15 13:01,False,False
+248001,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43815,D+1 Generation, - ,07:00:31,In Progress,From Initial to In Progress,False,João Maria José,2019-12-16 15:54,False,False
+248002,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Unet Database Control, - ,01:13:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 12:46,False,False
+248002,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF Plan, - ,01:27:20,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 14:32,False,False
+248002,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,NL Script, - ,00:51:17,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 15:59,False,False
+248002,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43814,RF/NL Baseline, - ,00:00:18,In Progress,From Initial to In Progress,False,João Maria José,2019-12-15 13:01,False,False
+248002,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43815,D+1 Generation, - ,07:00:31,In Progress,From Initial to In Progress,False,João Maria José,2019-12-16 15:54,False,False
+248003,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Unet Database Control, - ,01:13:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 12:46,False,False
+248003,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF Plan, - ,01:27:20,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 14:32,False,False
+248003,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,NL Script, - ,00:51:17,In Progress,From Initial to In Progress,False,João Maria José,2019-12-13 15:59,False,False
+248003,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43814,RF/NL Baseline, - ,00:00:18,In Progress,From Initial to In Progress,False,João Maria José,2019-12-15 13:01,False,False
+248003,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43815,D+1 Generation, - ,07:00:31,In Progress,From Initial to In Progress,False,João Maria José,2019-12-16 15:54,False,False
+248004,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248005,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF/NL Baseline, - ,01:51:19,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+248005,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43825,D+7 Generation, - ,02:22:47,In Progress,From Initial to In Progress,False,João Maria José,2019-12-26 15:00,False,False
+248007,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,RF/NL Baseline, - ,01:51:28,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+248008,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43830,RF/NL Baseline, - ,01:22:25,In Progress,From Initial to In Progress,False,João Maria José,2019-12-31 09:00,False,False
+248009,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,Unet Database Control, - ,01:38:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 18:47,False,False
+248009,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248010,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43810,RF/NL Baseline, - ,01:30:07,In Progress,From Initial to In Progress,False,João Maria José,2019-12-11 20:29,False,False
+248011,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248012,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43829,RF/NL Baseline, - ,00:21:32,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 11:10,False,False
+248014,WOW Telecom,WL,Swap 4.5G,False,On going,"Ready for RF Integration, Ready for WL Integration",43817,Unet Database Control, - ,01:38:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 18:47,False,False
+248014,WOW Telecom,WL,Swap 4.5G,False,On going,"Ready for RF Integration, Ready for WL Integration",43817,RF Plan, - ,00:51:27,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 20:28,False,False
+248014,WOW Telecom,WL,Swap 4.5G,False,On going,"Ready for RF Integration, Ready for WL Integration",43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248015,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248016,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248017,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43826,D+1 Generation, - ,03:08:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-27 15:18,False,False
+248018,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248019,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43830,RF/NL Baseline, - ,01:22:25,In Progress,From Initial to In Progress,False,João Maria José,2019-12-31 09:00,False,False
+248020,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248022,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,Unet Database Control, - ,01:38:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 18:47,False,False
+248022,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,RF Plan, - ,00:51:27,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 20:28,False,False
+248022,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248023,WOW Telecom,WL,Swap 4.5G,False,On going,"Ready for Integration, Ready for RF Integration, Ready for WL Integration",43817,Unet Database Control, - ,01:38:58,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 18:47,False,False
+248023,WOW Telecom,WL,Swap 4.5G,False,On going,"Ready for Integration, Ready for RF Integration, Ready for WL Integration",43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248024,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248036,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,RF/NL Baseline, - ,00:26:21,In Progress,From Initial to In Progress,False,João Maria José,2019-12-19 14:56,False,False
+248047,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43817,NL Script, - ,01:18:29,In Progress,From Initial to In Progress,False,João Maria José,2019-12-18 21:21,False,False
+248049,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Double Check,43826,D+1 Generation, - ,03:08:13,In Progress,From Initial to In Progress,False,João Maria José,2019-12-27 15:18,False,False
+248055,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43812,RF/NL Baseline, - ,01:51:35,In Progress,From Initial to In Progress,False,João Maria José,2019-12-12 22:44,False,False
+248055,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43825,D+7 Generation, - ,02:22:47,In Progress,From Initial to In Progress,False,João Maria José,2019-12-26 15:00,False,False
+248056,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43826,RF/NL Baseline, - ,00:58:42,In Progress,From Initial to In Progress,False,João Maria José,2019-12-27 21:00,False,False
+248056,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43829,D+1 Generation, - ,02:01:00,In Progress,From Initial to In Progress,False,João Maria José,2019-12-30 15:44,False,False
+193461,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43802,Alarm Test, - ,02:18:05,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-03 15:36,False,False
+193519,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43803,Alarm Test, - ,07:43:06,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 10:17,False,False
+208016,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43801,Alarm Test, - ,03:32:32,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-02 10:29,False,False
+213810,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43810,Alarm Test, - ,01:59:45,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-11 10:43,False,False
+215442,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43803,Integration, - ,01:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 11:54,False,False
+215951,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,Alarm Test, - ,03:26:40,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 09:05,False,False
+215996,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43802,Alarm Test, - ,03:25:38,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-03 09:39,False,False
+216003,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43803,Alarm Test, - ,00:00:21,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-10-24 19:36,False,False
+216035,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43801,Alarm Test, - ,02:57:31,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-02 15:03,False,False
+216062,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43806,Alarm Test, - ,02:53:36,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-07 14:21,False,False
+216063,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43803,Alarm Test, - ,03:11:22,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 09:29,False,False
+216071,WOW Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Waiting for PTN Integration",43803,Alarm Test, - ,01:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-10-28 14:06,False,False
+226476,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,Integration, - ,02:35:06,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 16:41,False,False
+226476,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,Alarm Test, - ,01:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 15:41,False,False
+226478,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,Integration, - ,02:33:49,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 16:41,False,False
+226478,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,Alarm Test, - ,01:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 15:41,False,False
+226479,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Integration, - ,06:44:05,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 14:33,False,False
+226479,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Alarm Test, - ,01:45:35,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 19:33,False,False
+226480,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43811,Integration, - ,01:35:19,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-12 19:16,False,False
+226480,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43811,Alarm Test, - ,00:10:35,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-12 20:51,False,False
+226482,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43816,Integration, - ,00:41:44,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-17 18:35,False,False
+226483,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Integration, - ,01:58:33,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 21:12,False,False
+226485,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43818,Integration, - ,01:45:21,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 09:21,False,False
+226493,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43819,Integration, - ,01:26:17,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-20 21:15,False,False
+227077,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43812,Alarm Test, - ,03:43:30,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 09:35,False,False
+227086,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43804,Integration, - ,03:00:56,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 17:00,False,False
+227086,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43808,Alarm Test, - ,01:00:43,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-06 16:38,False,False
+227093,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43813,Integration, - ,04:15:11,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-11-28 14:11,False,False
+227093,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43813,Alarm Test, - ,00:32:28,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-14 17:09,False,False
+227093,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43813,Tridigit, - ,01:51:02,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-14 17:09,False,False
+227099,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43805,Integration, - ,04:46:12,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-06 11:31,False,False
+227104,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43811,Integration, - ,04:33:23,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-12 11:47,False,False
+227119,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43822,Integration, - ,02:57:54,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-23 17:32,False,False
+227129,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43829,Integration, - ,03:20:57,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-30 15:16,False,False
+227131,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Integration, - ,04:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 16:12,False,False
+227153,WOW Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Ready for Alarm Test, Waiting for PTN Integration",43803,Integration, - ,04:31:32,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 09:26,False,False
+227687,WOW Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Waiting for PTN Integration",43802,Alarm Test, - ,01:01:01,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-03 14:04,False,False
+227745,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43800,Alarm Test, - ,-1:28:58,In Progress,From Initial to In Progress,True,Pedro Mateus,2019-12-01 16:09,True,False
+227745,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43800,Alarm Test, - ,00:42:24,In Progress,From Initial to In Progress,True,Pedro Mateus,2019-12-01 16:09,True,False
+227745,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43800,Integration, - ,05:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-01 09:18,False,False
+227745,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43800,Alarm Test, - ,00:00:21,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-01 16:08,False,False
+227756,WOW Telecom,WL,Swap 4.5G,False,Ready,"Ready for Alarm Test, Ready for PTN Documentation",43800,Integration, - ,02:00:57,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-01 14:10,False,False
+227779,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,Integration, - ,01:48:21,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 15:55,False,False
+227788,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43805,Integration, - ,01:24:55,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-06 15:36,False,False
+227788,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43805,Alarm Test, - ,00:35:08,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-06 17:01,False,False
+239693,WOW Telecom,WL,Swap 4.5G,True,Ready,-,43803,Integration, - ,06:01:16,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 12:53,False,False
+239693,WOW Telecom,WL,Swap 4.5G,True,Ready,-,43803,Alarm Test, - ,00:24:08,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 18:54,False,False
+239693,WOW Telecom,WL,Swap 4.5G,True,Ready,-,43825,Tridigit, - ,01:07:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-26 15:41,False,False
+239889,WOW Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Waiting for PTN Integration",43803,Integration, - ,02:29:36,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 17:19,False,False
+239889,WOW Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Waiting for PTN Integration",43810,Tridigit, - ,00:43:22,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-11 11:10,False,False
+239921,WOW Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Ready for PTN Documentation, Waiting for PTN Integration",43802,Alarm Test, - ,00:44:53,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-03 19:16,False,False
+239922,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for D+1 Generation,43811,Tridigit, - ,03:31:53,In Progress,From Initial to In Progress,True,Pedro Mateus,2019-12-12 13:49,True,False
+239922,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for D+1 Generation,43811,Alarm Test, - ,02:00:38,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-12 11:48,False,False
+239922,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for D+1 Generation,43811,Tridigit, - ,-1:58:53,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-12 14:50,False,False
+239923,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43809,Integration, - ,02:54:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-10 13:50,False,False
+239923,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43809,Alarm Test, - ,02:03:48,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-10 15:44,False,False
+247514,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43825,Tridigit, - ,00:41:16,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-26 11:32,False,False
+247523,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43812,Integration, - ,03:17:41,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 17:57,False,False
+247530,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43806,Integration, - ,01:45:34,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-07 16:14,False,False
+247538,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43811,Integration, - ,02:01:12,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-12 15:36,False,False
+247546,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43816,Integration, - ,02:16:15,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-17 17:31,False,False
+247567,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Unet Database Control,43826,Integration, - ,03:01:46,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-27 13:07,False,False
+247999,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43808,Integration, - ,03:04:54,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-09 16:17,False,False
+248000,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43822,Alarm Test, - ,01:33:30,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-23 09:15,False,False
+248007,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Alarm Test, - ,-1:31:31,In Progress,From Initial to In Progress,True,Pedro Mateus,2019-12-13 21:19,True,False
+248007,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Alarm Test, - ,02:29:36,In Progress,From Initial to In Progress,True,Pedro Mateus,2019-12-13 18:51,True,False
+248007,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43812,Alarm Test, - ,02:44:30,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 13:51,False,False
+248009,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,Integration, - ,03:05:44,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 16:41,False,False
+248010,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43810,Integration, - ,00:21:02,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-11 14:57,False,False
+248020,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43818,Integration, - ,01:33:26,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 22:18,False,False
+249865,WOW Telecom,WL,Swap 4.5G,False,Ready,-,43822,Integration, - ,02:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-23 13:29,False,False
+249873,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43829,Tridigit, - ,01:15:40,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-30 11:07,False,False
+256589,WOW Telecom,WL,Swap 4.5G,False,Ready,Ready for Double Check,43819,Integration, - ,02:01:11,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-20 20:05,False,False
+62795,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+62795,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+62797,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+62797,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+62798,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43809,Unet Database Control, - ,00:28:17,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-10 16:50,False,False
+62798,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43809,RF Plan, - ,00:28:14,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-10 16:50,False,False
+62800,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+62800,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+62804,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+62804,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+62813,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+62813,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+62828,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+62830,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+195491,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+195500,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+195500,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+195505,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43805,Unet Database Control, - ,02:00:48,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-06 17:39,False,False
+195505,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43805,RF Plan, - ,01:59:53,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-06 17:40,False,False
+195512,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+195512,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+216497,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+216499,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+216499,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+216506,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43805,Unet Database Control, - ,02:04:17,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-06 17:36,False,False
+216506,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43805,RF Plan, - ,02:03:22,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-06 17:37,False,False
+216863,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43801,D+1 Generation, - ,04:09:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 11:55,False,False
+216865,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+216865,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+227745,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227745,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43801,D+1 Generation, - ,04:09:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 11:55,False,False
+227754,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227754,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43801,D+1 Generation, - ,04:08:53,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 11:55,False,False
+227756,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for Alarm Test, Ready for PTN Documentation",43800,Unet Database Control, - ,01:35:31,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 14:15,False,False
+227756,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for Alarm Test, Ready for PTN Documentation",43800,RF Plan, - ,01:35:47,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 14:15,False,False
+227756,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for Alarm Test, Ready for PTN Documentation",43800,NL Script, - ,01:35:45,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 14:15,False,False
+227756,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for Alarm Test, Ready for PTN Documentation",43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227756,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for Alarm Test, Ready for PTN Documentation",43801,D+1 Generation, - ,04:08:48,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 11:55,False,False
+227760,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for D+7 Generation, Ready for PTN Documentation",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227760,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for D+7 Generation, Ready for PTN Documentation",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+227762,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227762,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43801,D+1 Generation, - ,04:28:23,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 11:55,False,False
+227767,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Missing PTN Input, Waiting for PTN Integration",43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227768,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227771,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43800,Unet Database Control, - ,01:35:50,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 14:15,False,False
+227771,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43800,RF Plan, - ,01:35:51,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 14:15,False,False
+227771,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43800,NL Script, - ,01:35:51,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 14:15,False,False
+227778,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227778,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+227779,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227779,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+227781,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43801,D+1 Generation, - ,05:20:17,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 11:55,False,False
+227782,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227782,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for PTN Documentation,43801,D+1 Generation, - ,05:20:21,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-02 11:55,False,False
+227784,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227784,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+227787,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227787,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+227788,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43805,Unet Database Control, - ,02:00:59,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-06 17:39,False,False
+227788,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43805,RF Plan, - ,02:00:06,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-06 17:40,False,False
+227789,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227791,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227791,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+227793,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227794,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43800,RF/NL Baseline, - ,01:46:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-01 16:49,False,False
+227795,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227795,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+227795,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43813,NL Script, - ,04:14:16,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-14 13:26,False,False
+227796,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+227796,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247511,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247511,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247512,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247512,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247513,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247513,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247515,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247515,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247516,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247516,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247517,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for Double Check, Ready for PTN Documentation",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247517,ZAZ Telecom,WL,Swap 4.5G,False,Ready,"Ready for Double Check, Ready for PTN Documentation",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247518,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247518,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247519,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247519,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247520,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247520,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247521,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247522,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247523,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247524,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247524,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247525,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247526,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247526,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247527,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247527,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247528,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247528,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247529,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247529,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247529,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43813,NL Script, - ,04:14:13,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-14 13:26,False,False
+247530,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43806,Unet Database Control, - ,00:47:24,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-07 13:17,False,False
+247530,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43806,RF Plan, - ,00:47:25,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-07 13:17,False,False
+247530,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43806,NL Script, - ,00:47:26,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-07 13:17,False,False
+247531,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247531,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247532,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247532,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247533,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247533,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247534,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247535,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247535,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247536,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247536,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247537,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247537,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247538,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247539,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247539,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247539,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43813,NL Script, - ,04:14:12,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-14 13:26,False,False
+247540,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247540,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247541,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247541,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247542,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247542,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247543,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247543,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247544,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247544,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247545,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247545,ZAZ Telecom,WL,Swap 4.5G,False,Ready,Ready for Alarm Test,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247546,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247546,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247547,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247547,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247550,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247550,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247551,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247551,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247551,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43813,NL Script, - ,04:14:09,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-14 13:26,False,False
+247552,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247552,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247552,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43813,NL Script, - ,04:14:02,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-14 13:26,False,False
+247553,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247553,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247554,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247554,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247555,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247555,ZAZ Telecom,WL,Swap 4.5G,False,Ready,-,43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247556,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247556,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247557,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247557,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247558,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247558,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247559,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247559,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247560,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247560,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Missing WL Input, Ready for NL Script, Ready for RF Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247561,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247561,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247562,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247562,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+247563,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,Unet Database Control, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:45,False,False
+247563,ZAZ Telecom,WL,Swap 4.5G,False,On going,"Ready for NL Script, Ready for RF Integration, Ready for WL Integration",43811,RF Plan, - ,05:02:00,In Progress,From Initial to In Progress,False,Jorge Salvador,2019-12-12 12:50,False,False
+203359,WOW Telecom,WL,WL CLEAN UP,False,Closed,-,43817,Integration, - ,01:09:06,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-09-26 14:04,False,False
+203359,WOW Telecom,WL,WL CLEAN UP,False,Closed,-,43817,Report, - ,00:00:06,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 13:54,False,False
+215945,WOW Telecom,WL,WL CLEAN UP,False,Closed,-,43817,Integration, - ,00:21:11,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 09:27,False,False
+215945,WOW Telecom,WL,WL CLEAN UP,False,Closed,-,43817,Report, - ,00:00:04,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 11:37,False,False
+219557,WOW Telecom,WL,WL CLEAN UP,False,Ready,-,43817,Integration, - ,02:34:44,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-10-21 13:07,False,False
+222055,WOW Telecom,WL,WL CLEAN UP,False,Closed,-,43825,Integration, - ,02:31:50,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-10-25 14:56,False,False
+246891,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43801,Integration, - ,03:48:58,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-02 11:14,False,False
+246891,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43801,Report, - ,00:00:04,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-02 18:02,False,False
+247038,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43801,Integration, - ,01:13:42,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-02 13:49,False,False
+247038,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43801,Report, - ,00:00:12,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-02 18:01,False,False
+247510,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43802,Integration, - ,02:02:40,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-03 13:12,False,False
+247510,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43802,Report, - ,00:00:05,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-03 15:14,False,False
+247715,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43802,Integration, - ,03:00:42,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-03 14:52,False,False
+247715,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43802,Report, - ,00:00:05,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-03 17:53,False,False
+248174,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43804,Integration, - ,03:00:36,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 14:57,False,False
+248174,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43804,Report, - ,00:00:04,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 19:25,False,False
+248177,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43803,Integration, - ,02:01:20,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 16:03,False,False
+248177,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43803,Report, - ,00:00:07,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 18:04,False,False
+248182,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43803,Integration, - ,02:01:04,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 16:10,False,False
+248182,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43803,Report, - ,00:00:04,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-04 18:11,False,False
+249346,WOW Telecom,WL,WL CLEAN UP,False,Closed,-,43804,Integration, - ,01:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 16:23,False,False
+249346,WOW Telecom,WL,WL CLEAN UP,False,Closed,-,43804,Report, - ,00:00:09,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 19:24,False,False
+249349,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43804,Integration, - ,05:00:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 11:02,False,False
+249349,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43804,Report, - ,00:00:03,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-05 20:03,False,False
+249852,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43808,Integration, - ,01:58:30,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-09 11:21,False,False
+249852,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43808,Report, - ,00:00:05,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-09 13:19,False,False
+250146,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43809,Integration, - ,02:55:38,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-10 09:32,False,False
+250146,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43811,Report, - ,00:00:07,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-12 09:29,False,False
+250865,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43810,Integration, - ,01:38:19,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-11 11:57,False,False
+250865,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43810,Report, - ,00:00:03,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-11 15:48,False,False
+251260,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43816,Integration, - ,02:00:35,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-11 14:50,False,False
+252448,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43812,Integration, - ,02:01:06,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 15:37,False,False
+252448,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43812,Report, - ,00:00:03,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-13 17:38,False,False
+254276,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43817,Integration, - ,00:20:29,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 09:27,False,False
+254276,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43817,Report, - ,00:00:04,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 11:38,False,False
+254296,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43817,Integration, - ,00:20:07,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 09:28,False,False
+254301,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43817,Integration, - ,00:20:42,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 09:27,False,False
+254301,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43817,Report, - ,00:00:08,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 14:06,False,False
+254317,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43818,Integration, - ,03:12:08,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-18 09:47,False,False
+254317,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43818,Report, - ,00:00:07,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 21:15,False,False
+254853,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43818,Integration, - ,01:47:55,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 11:51,False,False
+254853,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43818,Report, - ,00:00:04,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 13:39,False,False
+255114,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43818,Integration, - ,01:09:00,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 16:16,False,False
+255114,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43818,Report, - ,00:00:05,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-19 21:17,False,False
+255205,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43825,Integration, - ,05:45:40,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-20 10:34,False,False
+255205,WOW Telecom,WL,WL CLEAN UP,True,Closed,-,43825,Report, - ,00:00:06,In Progress,From Initial to In Progress,False,Pedro Mateus,2019-12-26 14:14,False,False
